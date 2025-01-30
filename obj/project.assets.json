@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adeyemi Mubarak\\Desktop\\ConsoleProject\\ConsoleProject.csproj",
+      "projectUniqueName": "C:\\Users\\Adeyemi Mubarak\\Desktop\\CSharp-ConsoleProject\\ConsoleProject.csproj",
       "projectName": "ConsoleProject",
-      "projectPath": "C:\\Users\\Adeyemi Mubarak\\Desktop\\ConsoleProject\\ConsoleProject.csproj",
+      "projectPath": "C:\\Users\\Adeyemi Mubarak\\Desktop\\CSharp-ConsoleProject\\ConsoleProject.csproj",
       "packagesPath": "C:\\Users\\Adeyemi Mubarak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adeyemi Mubarak\\Desktop\\ConsoleProject\\obj\\",
+      "outputPath": "C:\\Users\\Adeyemi Mubarak\\Desktop\\CSharp-ConsoleProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adeyemi Mubarak\\AppData\\Roaming\\NuGet\\NuGet.Config"

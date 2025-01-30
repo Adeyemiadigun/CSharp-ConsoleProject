@@ -174,7 +174,8 @@ namespace GFoodApp.Menu
             {
                 var user = userLogic.GetCurrentUser();
                 var customer = customerLogic.GetCustomerByEmail(user!.Email);
-                var res = customerLogic.Delete(customer.Id);
+                var res = customerLogic.Delete(customer.WalletId);
+                walletLogic.Delete(customer.Id);
                 if(res)
                 {
                    Console.WriteLine("Account deleted successfully");
